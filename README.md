@@ -1,2 +1,6 @@
 # Wiki
-Wiki de algoritmos e conceitos
+
+Biblioteca de conceitos e algoritmos
+
+- [Conceitos](./Conceitos)
+- [Ordenação](./Ordenacao)
