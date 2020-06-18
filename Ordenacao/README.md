@@ -1,6 +1,6 @@
 # Ordenação
 
-Para avaliação de desenpenho será utilizada a notação O.
+Para avaliação de desenpenho será utilizada a [notação O](../Conceitos#notação-o).
 
 ## Index
 <!-- TOC -->
