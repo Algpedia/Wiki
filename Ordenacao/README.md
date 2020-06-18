@@ -1,6 +1,6 @@
 # Ordenação
 
-Para avaliação de desenpenho será utilizada a [notação O](../Conceitos#notação-o).
+Para avaliação de desenpenho será utilizada a [Notação Big O](../Conceitos#notação-big-o).
 
 ## Index
 <!-- TOC -->
@@ -12,6 +12,8 @@ Para avaliação de desenpenho será utilizada a [notação O](../Conceitos#nota
 ![BubbleSort](https://upload.wikimedia.org/wikipedia/commons/3/37/Bubble_sort_animation.gif)
 
 O BubbleSort é um algoritmo muito simples. Para cada uma das posições da lista é encontrado o menor valor dentre todos os valores que estão à frente. Isto faz com que, posição por posição, a lista vai sendo ordenada.
+
+[Wikipedia](https://pt.wikipedia.org/wiki/Bubble_sort)
 
 Desempenho:
 
