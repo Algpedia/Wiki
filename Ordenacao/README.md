@@ -36,3 +36,18 @@ Espaço: O(1)
 [Khan Academy - Visão geral](https://pt.khanacademy.org/computing/computer-science/algorithms/merge-sort/a/overview-of-merge-sort)
 
 [Khan Academy - Análise](https://pt.khanacademy.org/computing/computer-science/algorithms/merge-sort/a/analysis-of-merge-sort)
+
+## Quick Sort
+![Quick Sort](https://upload.wikimedia.org/wikipedia/commons/6/6a/Sorting_quicksort_anim.gif)
+
+Quick Sort é um dos algoritmos de ordenação mais populares. A ideia do algoritmo é recursivamente definir um valor aleatório no vetor e separar o vetor entre os valores maiores e menores que este valor definido.
+
+Desempenho:
+
+Tempo: O(n Logn)
+
+Espaço: O(1)
+
+[Khan Academy - Visão geral](https://pt.khanacademy.org/computing/computer-science/algorithms/quick-sort/a/overview-of-quicksort)
+
+[Khan Academy - Análise](https://pt.khanacademy.org/computing/computer-science/algorithms/quick-sort/a/analysis-of-quicksort)
