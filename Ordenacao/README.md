@@ -7,6 +7,7 @@ Para avaliação de desenpenho será utilizada a [Notação Big O](../Conceitos#
 - [Algoritmos de Ordenação](#algoritmos-de-ordenação)
     - [Bubble Sort](#bubble-sort)
     - [Merge Sort](#merge-sort)
+    - [Quick Sort](#quick-sort)
 <!-- /TOC -->
 
 ## Bubble Sort
