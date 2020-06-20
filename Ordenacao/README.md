@@ -32,7 +32,7 @@ Desempenho:
 
 Tempo: O(n Logn)
 
-Espaço: O(1)
+Espaço: O(n)
 
 [Khan Academy - Visão geral](https://pt.khanacademy.org/computing/computer-science/algorithms/merge-sort/a/overview-of-merge-sort)
 
@@ -47,7 +47,7 @@ Desempenho:
 
 Tempo: O(n Logn)
 
-Espaço: O(1)
+Espaço: O(Logn)
 
 [Khan Academy - Visão geral](https://pt.khanacademy.org/computing/computer-science/algorithms/quick-sort/a/overview-of-quicksort)
 
